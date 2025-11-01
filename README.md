@@ -1,7 +1,14 @@
-# Welcome to WinDurango's website
-Status: Extremely WIP
+Looking for documentation, credits, and a better looking website? <https://windurango.github.io/Documentation/>
+<p align="center">
+  <a href="https://github.com/WinDurango-project/WinDurango/">
+    <img alt="WinDurango logo" src="https://raw.githubusercontent.com/WinDurango-project/WinDurango/main/assets/logo/1024.png" height="120px">
+  </a>
+</p>
 
-WinDurango is an experimental compatibility layer and emulator for Xbox One games on Windows. It aims to recreate the console environment so titles can run natively on PC hardware. Development is still in its early stages.
+<h1 align="center">WinDurango</h1>
+
+## WinDurango is an experimental compatibility layer and emulator for Xbox One games on Windows.
+<br> It aims to recreate the console environment so titles can run natively on PC hardware. Development is still in its early stages.
 
 ## You should go to the [GitHub page to download](https://github.com/WinDurango/WinDurango) :)
 Download, test some games out, report issues on GitHub, and contribute code (if you can).
